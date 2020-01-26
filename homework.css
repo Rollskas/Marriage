@@ -48,8 +48,7 @@ body {
 @media screen and (max-width:1024px){
       
     .name_midl > a {
-        color: #ffff66 ;
-        text-decoration: none;
+        font-size: 60px;
     }
     .cards{
         min-width: 800px;
@@ -57,5 +56,8 @@ body {
         padding-right: 100px;
         
     }
+    body{
+    
+    }
 
-}     
+}   
