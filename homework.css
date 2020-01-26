@@ -48,7 +48,7 @@ body {
 @media screen and (max-width:1024px){
       
     .name_midl > a {
-        font-size: 60px;
+        font-size: 90px;
     }
     .cards{
         min-width: 800px;
@@ -57,7 +57,7 @@ body {
         
     }
     body{
-    
+    background-image: url("./background768.jpg");
     }
 
 }   
